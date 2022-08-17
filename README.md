@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Sou o Lenardo Espindula!</h1>
+<h1 align="center">Olá, Sou o Leonardo Espindula!</h1>
 
 <p> </p>
 <div align="center">
