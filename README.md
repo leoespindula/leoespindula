@@ -11,14 +11,14 @@
 ##
   
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Js" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&ensp;
-  <img align="center" alt="HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&ensp;
-  <img align="center" alt="CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&ensp;
-  <img align="center" alt="Vue" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">&ensp;
-  <img align="center" alt="Bootstrap" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />&ensp;
-  <img align="center" alt="Python" height="45"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&ensp;
-  <img align="center" alt="Csharp" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&ensp;
-  <img align="center" alt="dot.Net" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
+  <img align="center" alt="Js" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&ensp;
+  <img align="center" alt="HTML" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&ensp;
+  <img align="center" alt="CSS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&ensp;
+  <img align="center" alt="Vue" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">&ensp;
+  <img align="center" alt="Bootstrap" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />&ensp;
+  <img align="center" alt="Python" height="35"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&ensp;
+  <img align="center" alt="Csharp" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&ensp;
+  <img align="center" alt="dot.Net" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
   </div>
   
 ##
