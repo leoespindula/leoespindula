@@ -4,7 +4,7 @@
 <p> </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardo-josé-espindula-438717221">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leoespindula&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>&ensp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leoespindula&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoespindula&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
