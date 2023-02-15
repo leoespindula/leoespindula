@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bdae&height=80&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54d633&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=588ed7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Leonardo;Estudante+de+Programação;Atualmente+trabalhando+na+EL+Produções+de+Software;Seja+bem+vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Leonardo;Estudante+de+Programação;Atualmente+trabalhando+na+EL+Produções+de+Software;Seja+bem+vindo!)](https://git.io/typing-svg)
 
 <p> </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardo-josé-espindula-438717221">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leoespindula&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoespindula&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leoespindula&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoespindula&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 ##
@@ -33,6 +33,6 @@
 ![Snake animation](https://github.com/leoespindula/leoespindula/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leoespindula&bg_color=0d1117&color=9873bc&line=588ed7&point=00bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leoespindula&bg_color=0d1117&color=00acfa&line=ffffff&point=54d633&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bdae&height=80&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54d633&height=80&section=footer"/>
