@@ -1,5 +1,6 @@
-<h1 align="center">Olá, Sou o Leonardo Espindula!</h1><br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3333FF&height=80&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3333FF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+i+am+LEO+ESPINDULA;I'm+25+years+old;I+from+Brazil;Student+systems+Development;Be+Welcome!)](https://git.io/typing-svg)
 
 <p> </p>
 <div align="center">
@@ -28,6 +29,10 @@
 <a href="https://instagram.com/LeoEspindula" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/leonardo-josé-espindula-438717221" target="_blank" heigth="100px"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
- [![](https://visitcount.itsvg.in/api?id=leoespindula&icon=8&color=4)](https://visitcount.itsvg.in)
+
 ![Snake animation](https://github.com/leoespindula/leoespindula/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leoespindula&bg_color=0d1117&color=3333FF&line=3333CC&point=FF00CC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3333FF&height=80&section=footer"/>
