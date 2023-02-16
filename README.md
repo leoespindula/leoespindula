@@ -33,6 +33,6 @@
 ![Snake animation](https://github.com/leoespindula/leoespindula/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leoespindula&bg_color=0d1117&color=00acfa&line=ffffff&point=54d633&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leoespindula&bg_color=0d1117&color=00acfa&line=54d633&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54d633&height=80&section=footer"/>
