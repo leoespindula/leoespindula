@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54d633&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Leonardo;Sou+Programador;Atualmente+trabalhando+na+empresa;EL+Produções+de+Software;Seja+bem+vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Leonardo;Sou+Programador;Atualmente+trabalhando+na+empresa;EL+Produções+de+Software;)](https://git.io/typing-svg)
 
 <p> </p>
 <div align="center">
@@ -33,6 +33,6 @@
 ![Snake animation](https://github.com/leoespindula/leoespindula/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leoespindula&bg_color=0d1117&color=ffffff&line=54d633&point=00acfa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54d633&height=100&section=footer"/>
